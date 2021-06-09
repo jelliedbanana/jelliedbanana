@@ -1,0 +1,4 @@
+-Hello, I'm @jelliedbanana.
+-I've been a Roblox developer for about 2 years. I primarily start on projects for fun, but rarely ever finish them.
+-I'm experienced in Lua and Java, and currently learning Javascript.
+-I'll likely have some stuff to show soon idk 
